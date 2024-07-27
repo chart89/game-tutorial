@@ -1,0 +1,38 @@
+{
+  "window.zoomLevel": 1,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Material Theme Ocean",
+  "workbench.sideBar.location": "left",
+  "editor.fontSize": 14,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "trailing-spaces.trimOnSave": true,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "full": {
+        "highlight": "rgba(20, 180, 80, 0.3)"
+      }
+    },
+    "closing": {
+      "full": {
+        "highlight": "rgba(20, 180, 80, 0.3)"
+      }
+    }
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.guides.indentation": false,
+  "workbench.activityBar.location": "hidden",
+  "liveServer.settings.port": 5501
+}
